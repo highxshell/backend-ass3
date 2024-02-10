@@ -1,4 +1,10 @@
 {
+  "name": "ass3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "axios": "^1.6.5",
     "bcrypt": "^5.1.1",
