@@ -11,3 +11,4 @@
 10. to test admin page u should login with username - artem, and password - artem, after that go to the /admin route and see functionality
 
 # deployed link - https://assignment3-1tgw.onrender.com
+# THREE API'S THAT I USED BESIDES THE OPENWATHERAPI - nasa apod api, restcountries api, and air quality api
