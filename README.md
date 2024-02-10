@@ -9,3 +9,5 @@
 8. after that you can check (3)NASAAPODAPI with information that updates everyday
 9. then fo to Your History page in navbar and you will see your history of visiting different API's
 10. to test admin page u should login with username - artem, and password - artem, after that go to the /admin route and see functionality
+
+# deployed link - https://assignment3-1tgw.onrender.com
