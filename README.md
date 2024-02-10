@@ -12,3 +12,4 @@
 
 # deployed link - https://assignment3-1tgw.onrender.com
 # THREE API'S THAT I USED BESIDES THE OPENWATHERAPI - nasa apod api, restcountries api, and air quality api
+# username of ADMIN - artem, password - artem
